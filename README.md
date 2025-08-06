@@ -4,3 +4,5 @@ topics I have learned through this project are
 
 HTML : div , section , classes , id ,
 different tags boilerplate html 
+
+css : classes, tailwind css, more ui templates
